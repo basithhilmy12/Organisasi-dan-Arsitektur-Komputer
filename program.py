@@ -1,0 +1,1 @@
+print("Teknik Informatika")
